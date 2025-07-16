@@ -5,4 +5,4 @@ Welcome to the Movies Database project! 🚀 This database is designed to store 
 ✅ Structured Data – Well-organized tables for movies, directors, and actors.                                                                                                                                           
 ✅ Many-to-Many Relationships – A flexible schema connecting movies with directors and stars.                                                                                                                           
 ✅ Scalable Design – Easily extendable to include additional details like reviews, box office collections, etc.                                                                                                         
-✅ SQL-Powered – Built using MySQL/PostgreSQL, making it easy to query and manage.                         
+✅ SQL-Powered – Built using MySQL, making it easy to query and manage.                         
